@@ -1,6 +1,12 @@
 # SiteHunter
 Information Tool
 
+# Function
+- Class C Scan
+- Directory brute force
+- Subdomain brute force
+- URL Collector
+
 ![1](https://github.com/malbuffer4pt/SiteHunter/blob/main/1.png)
 ![2](https://github.com/malbuffer4pt/SiteHunter/blob/main/2.png)
 ![3](https://github.com/malbuffer4pt/SiteHunter/blob/main/3.png)
