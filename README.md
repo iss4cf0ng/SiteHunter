@@ -1,6 +1,6 @@
 # SiteHunter
 Information Tool\
-這個是之前的C段反查工具重寫了\
+這個是之前的C段反查工具重寫了
 
 # Function
 - Class C Scan
